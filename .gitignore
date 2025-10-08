@@ -1,0 +1,46 @@
+# ================================
+# ISO-NE ENERGY ANALYSIS PROJECT
+# ================================
+
+# Python cache and temp files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pkl
+*.pickle
+*.log
+*.tmp
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual / Conda environments
+venv/
+.env/
+.env
+*.lock
+
+# Conda / pip environment files backups
+environment.yml~
+requirements.txt~
+
+# Data folders
+data/raw/
+data/interim/
+data/temp/
+
+# Keep processed data (optional)
+# data/processed/*
+
+# OS files and IDE settings
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives, backups
+*.zip
+*.tar
+*.gz
+*.bak
+*.swp
