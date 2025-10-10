@@ -25,9 +25,9 @@ environment.yml~
 requirements.txt~
 
 # Data folders
-data/raw/
-data/interim/
-data/temp/
+# data/raw/
+# data/interim/
+# data/temp/
 
 # Keep processed data (optional)
 # data/processed/*
