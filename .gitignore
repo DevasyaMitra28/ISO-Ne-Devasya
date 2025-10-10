@@ -2,6 +2,9 @@
 # ISO-NE ENERGY ANALYSIS PROJECT
 # ================================
 
+# Repository files
+*.gitkeep
+
 # Python cache and temp files
 __pycache__/
 *.py[cod]
